@@ -4,7 +4,7 @@ My name is Anuj Tyagi (he / him).
 
 * I'm a Senior SRE @RingCentral Inc
 * Community builder at [@AWS](https://aws.amazon.com/developer/community/community-builders) where I focus on [AWS Web Services](https://aws.amazon.com/) 
-* Top 1% Mentor @ [TopMate]([https://certdirectory.io/mentorship](https://topmate.io/anujtyagi/))
+* Top 1% Mentor @ [TopMate](https://topmate.io/anujtyagi/)
 * Mentor for Cloud Native [@CertDirectory](https://certdirectory.io/mentorship)
 
 I'm passionate about coaching operators and developers on how to build sustainable infrastructure and orchestration workflows.
