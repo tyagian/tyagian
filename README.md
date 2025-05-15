@@ -16,7 +16,7 @@ Check out some of the things I've worked on:
 * Terraform contribution on develop MongoDB/DocumentDB Index support [Terraform Provider](https://registry.terraform.io/providers/megum1n/mongodb/latest)
 * Prometheus contributions on YACE export [Prometheus-Yace](https://github.com/prometheus-community/yet-another-cloudwatch-exporter)
 * Flagger contributions for canary deployment [FluxCD-Flagger](https://github.com/fluxcd/flagger) 
-* Articles on AWS, and other Cloud native tech [dev.to](https://github.com/ksatirli/multi-cloud-kubernetes/](https://dev.to/sudo_anuj)
+* Articles on AWS, and other Cloud native  [dev.to](https://dev.to/sudo_anuj)
 * Blogs on Dzone [Dzone](https://dzone.com/users/5158763/anuj1404.html)
 
 
