@@ -7,8 +7,6 @@ My name is Anuj Tyagi (he / him).
 * Top 1% Mentor @ [TopMate](https://topmate.io/anujtyagi/)
 * Mentor for Cloud Native [@CertDirectory](https://certdirectory.io/mentorship)
 
-I'm passionate about coaching operators and developers on how to build sustainable infrastructure and orchestration workflows.
-
 ---
 
 Check out some of the things I've worked on:
