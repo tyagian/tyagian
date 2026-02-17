@@ -7,7 +7,7 @@ My name is Anuj Tyagi (he / him).
 * Top 1% Mentor @ [TopMate](https://topmate.io/anujtyagi)
 *  [Platform Engineering Ambassador](https://platformengineering.org/ambassador-program) 
 *  [DevOps Institute Ambassador](https://www.devopsinstitute.com/about-us/ambassadors)
-* Mentor for Cloud Native [@CertDirectory](https://certdirectory.io/mentorship)
+* Mentor for Cloud Native [@CertDirectory](https://certdirectory.io/profile/anujtyagi)
 
 ---
 
