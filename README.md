@@ -5,8 +5,8 @@ My name is Anuj Tyagi (he / him).
 * I'm a Senior SRE [@RingCentral Inc](https://ringcentral.com) 
 * Community builder at [@AWS](https://aws.amazon.com/developer/community/community-builders) 
 * Top 1% Mentor @ [TopMate](https://topmate.io/anujtyagi)
-*  @ [Platform Engineering Ambassador]([https://topmate.io/anujtyagi/](https://platformengineering.org/ambassador-program)) 
-*  @ [DevOps Institute Ambassador](https://www.devopsinstitute.com/about-us/ambassadors)
+*  [Platform Engineering Ambassador]([https://topmate.io/anujtyagi/](https://platformengineering.org/ambassador-program) 
+*  [DevOps Institute Ambassador](https://www.devopsinstitute.com/about-us/ambassadors)
 * Mentor for Cloud Native [@CertDirectory](https://certdirectory.io/mentorship)
 
 ---
